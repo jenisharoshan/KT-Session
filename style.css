@@ -1,0 +1,49 @@
+.top-container{
+    background-color:antiquewhite;
+    padding: 10%;
+
+}
+
+h1{
+
+    color:#194350;
+    text-align: center;
+    font-size:50px;
+    font-family: 'Antonio', sans-serif;
+    
+}
+
+p{
+    text-align: center;
+    font-size: 20px;
+}
+
+.middle-container{
+
+    margin: 5%;
+}
+
+#Footer{
+    
+    background-color: antiquewhite;
+    padding: 10%;
+
+}
+
+.fb-icon{
+
+    color:cornflowerblue;
+    margin-left: 45%;
+    /* width: 40%; */
+}
+
+.ig-icon{
+
+    color:cornflowerblue;
+    margin-left: 20px;
+
+}
+
+
+
+

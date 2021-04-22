@@ -1,0 +1,15 @@
+1) Ask random questions to the attendees.
+2) Ask attendees suggestions on what to do next.
+3) Random Games (2-5 mins)
+4) Quizzes.
+5) Ask random attendees to search an alternative set of commands.
+6) Errorum Naanum with teams.
+7) Divide members to teams if team_num > 4.
+8) Ask feedback from attendees then and now.
+9) Every 10 mins mentor should pick someone randomly and ask "What did you learn rn?"
+10) Teach how to optimize code (If possible)
+11) Inform attendees what the session is about before starting so that they can come up with what to ask.
+12) Talk about researchers in IT field
+13) Give problem ask them to solve
+14) Random Challenge
+15)
