@@ -12,4 +12,19 @@
 12) Talk about researchers in IT field
 13) Give problem ask them to solve
 14) Random Challenge
-15)
+
+
+-----------------------------------------------------------------
+
+TOPICS attendees ARE INTERESTED IN:
+
+1) Navigation Bar - Linking websites
+2) Animation (Basic)
+3) Linking Videos/Image/Download
+4) Media Queries - Making website responsive
+5) HTML5 unique char 
+6) Linking PDF
+7) Giving user content to Download
+8) Forms
+9) Sidebar 
+10) Login Page
